@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'Kảm ơn cậu nhiều hê hê:)',
     messDesc: '💬💬Lần nữa chúc cậu 8/3 hoan hỉ nhó và Chộp bài cho tớ nữa nha💬💬',
     btnAccept: 'Ok ãnh 💖',
-    messLink: 'https://m.me/PhungQuocDinh'
+    messLink: 'https://m.me/hoaqthahnn'
 }
